@@ -9,5 +9,5 @@
  Sample input:
 
 <br>
-<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/hanabi.png?raw=true" alt="img" />
+<img src="https://github.com/mahvash-siavashpour/mahvash-siavashpour.github.io/blob/main/assets/img/hanabi.png?raw=true" alt="img" width="400" />
 <br>
